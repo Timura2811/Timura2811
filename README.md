@@ -1,6 +1,5 @@
-- 👋 Hi, there my name Victoria Timura and I am a QA Engineer
+- 👋 Hi, there my name is Victoria Timura and I am a QA Engineer
 - ⚛️ Deep understanding of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) and Defect Life Cycle including methodologies like Agile and Waterfall and Scaled Agile Framework (SAFe).
-- 
 - 🥇 Proficient knowledge in various types of testing like Smoke, Regression, Sanity, and End-to-End.
 - 🖱️ Actively involved in Agile/Scrum Methodology in the project from requirements through the delivery of the project.
 - 🌱 I’m engaged in self-education, learning programming languages, and improving my knowledge base in Automation testing
