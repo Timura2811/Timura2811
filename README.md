@@ -12,10 +12,12 @@
 🛠️ Languages and Tools :
 Python  JavaScript  Selenium WebDriver   CSS  MySQL  NodeJS  Chrome  Webstorm  HTML  Firefox  Jira  Markdown  Apple  Android  Atom  XCode  VSCode  PyCharm  Selenium  Postman        Git        Allure         
 
-My favorite (QA and programming-related) quotes:**
--Everybody can do testing, but only a tester does good testing.
--Everything is easy when you know how to do this.
--More than the act of testing, designing tests is one of the best bug preventers known.
+**My favorite (QA and programming-related) quotes:**
+  -Everybody can do testing, but only a tester does good testing.
+  -Everything is easy when you know how to do this.
+  -More than the act of testing, designing tests is one of the best bug preventers known.
+
+
 <!---
 Timura2811/Timura2811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
