@@ -6,7 +6,7 @@
 - 🌱 I’m engaged in self-education, learning programming languages, and improving my knowledge base in Automation testing
 - ⚜️ Good hands-on experience with test management and bug tracking tool JIRA.
 - 📑 Hands-on experience in preparing Test Cases, Test Reports, and Requirement Traceability Matrix.
-- ⚡ Fun fact: 
+- ⚡ I͢'m͢ p͢a͢s͢s͢i͢o͢n͢a͢t͢e͢ a͢b͢o͢u͢t͢ a͢c͢t͢i͢v͢e͢ s͢p͢o͢r͢t͢s͢,t͢r͢a͢v͢e͢l͢l͢i͢n͢g͢, hiking.
 
 
 🛠️ Languages and Tools :
